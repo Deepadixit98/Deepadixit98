@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Deepadixit98
+pa- 👋 Hi, I’m @Deepadixit98
 - 👀 I’m interested in ...Python and its modules and Data science.
 - 🌱 I’m currently learning ..artificial intelligence and basics of Data Science
 - 💞️ I’m looking to collaborate on ...AI/DS/ML
-- 📫 How to reach me ........
+- 📫 How to reach me ........deepadixit03@gmail.com
 
 <!---
 Deepadixit98/Deepadixit98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
